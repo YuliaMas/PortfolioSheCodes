@@ -1,0 +1,13 @@
+.shadow-xl {
+    box-shadow: 5px 5px 5px rgb(0, 0, 0, 0.5);
+}
+h3{
+    color: #909295;
+}
+.bg-violet{
+   background-color: #eee5ff;
+   box-sizing: border-box;
+}
+img {
+    max-width: 91%;
+}
